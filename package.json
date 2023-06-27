@@ -1,6 +1,6 @@
 {
   "name": "codeforces",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "codeforces-api": "^1.0.3"
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/rest": "^1.7.1",
+    "codeforces-api": "^1.0.3",
+    "discord-api-types": "^0.37.43",
+    "discord.js": "^13.16.0",
+    "dotenv": "^16.1.4"
   }
 }
